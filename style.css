@@ -1,0 +1,15 @@
+.bg-container{
+    background-color: rgba(218, 216, 216, 0.808);
+}
+.product-item{
+    background-color: whitesmoke;
+}
+img.product-img {
+    width: 115px;
+}
+img.remove-img {
+    width: 25px;
+}
+.input-field{
+    width: 70px;
+}
